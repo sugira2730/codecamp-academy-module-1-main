@@ -1,4 +1,4 @@
-// Author: Cristian Camilo Cortes Ortiz <Cristianco9>
+// Author: EMMANUEL SUGIRA <sugira2730>
 
 // Request user (employee) data
 const yearsOfExperience = parseInt(prompt("Enter years of experience:"));

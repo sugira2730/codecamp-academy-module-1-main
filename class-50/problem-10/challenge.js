@@ -1,3 +1,4 @@
+// Author : EMMANUEL SUGIRA <sugira2730> 
 // Request user inputs
 const age = parseInt(prompt("Enter your age:)"));
 const studentInput = prompt("Are you a student ? (yes or no):").toLowerCase();

@@ -1,10 +1,7 @@
+// Author = EMMANUEL SUGIRA <sugira2730>
+//User Inputs
 const age = parseInt(prompt("Enter your Age:"));
 const isStudent = prompt("Are you a student?(yes/no)").toLowerCase();
-
-
-
-
-
 
 
 if (isNaN(age) || age < 0 || age > 100) {
