@@ -1,3 +1,5 @@
+// Author: Emmanuel Sugira <sugira2730>
+
 console.log("Program started");
 // Multiplication table
 console.log("*************************");

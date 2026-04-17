@@ -1,3 +1,5 @@
+// Author: Emmanuel Sugira <sugira2730>
+
 console.log("*******************");
 console.log("Repetitive code");
 console.log(1);
