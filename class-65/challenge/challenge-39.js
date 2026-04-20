@@ -1,4 +1,4 @@
-// Author: Cristian Camilo Cortes Ortiz <Cristianco9>
+// Author: Emmanuel Sugira <sugira2730>
 
 // Global variable to store the counter result
 let count = 0;

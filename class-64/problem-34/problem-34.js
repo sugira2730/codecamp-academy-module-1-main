@@ -1,4 +1,5 @@
 // Author: Emmanuel Sugira <sugira2730>
+
 let totalSum = 0;
 
 for(let number =1; number <= 20; number ++) {
