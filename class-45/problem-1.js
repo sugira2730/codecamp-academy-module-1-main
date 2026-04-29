@@ -1,3 +1,5 @@
+// Author: Emmanuel Sugira <sugira2730>
+
 var n = prompt("Enter a number:");
 //conditionals
 

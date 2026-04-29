@@ -1,4 +1,4 @@
-// Author: Cristian Camilo Cortes Ortiz <Cristianco9>
+// Author: Emmanuel Sugira <sugira2730>
 
 // require the user age
 var age = prompt("Enter your age: ");

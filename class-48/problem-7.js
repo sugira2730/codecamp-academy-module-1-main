@@ -1,4 +1,4 @@
-// Author: Cristian Camilo Cortes Ortiz <Cristianco9>
+// Author: Emmanuel Sugira <sugira2730>
 
 // Require the user salary and credit score
 let salary = parseFloat(prompt("Enter your monthly salary:"));
